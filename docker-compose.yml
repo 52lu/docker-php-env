@@ -49,7 +49,7 @@ services:
     php-fpm:
       build:
         context: .
-        dockerfile: ./php-fpm/${PHP_VERSION}/Dockerfile
+        dockerfile: ./php-fpm/Dockerfile
         args:
           - PHP_VERSION=${PHP_VERSION}
           - INSTALL_XHPROF=${PHP_FPM_INSTALL_XHPROF}
