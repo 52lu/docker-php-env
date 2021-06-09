@@ -17,4 +17,6 @@ DATA_PATH_HOST=持久卷位置
 
 ## 其他使用总结
 
-- [基于laradock+phpstorm配置单元测试](http://liuqh.icu/2019/04/01/php-docker-dan-yuan-ce-shi/)
+- [基于laradock+phpstorm配置单元测试](http://liuqh.icu/2019/04/01/php/php-docker-dan-yuan-ce-shi/)
+- [基于laradock+phpstorm+xdebug开发环境](http://liuqh.icu/2019/03/11/php/php-dockerxdebug/)
+- [基于laradock搭建非侵入式性能监控平台](http://liuqh.icu/2021/05/26/php/php-xing-neng-jian-ce/)
